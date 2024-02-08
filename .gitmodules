@@ -1,0 +1,6 @@
+[submodule "morpio-frontend"]
+	path = morpio-frontend
+	url = https://github.com/AlexandreCollin/morpio-frontend.git
+[submodule "morpio-backend"]
+	path = morpio-backend
+	url = https://github.com/AlexandreCollin/morpio-backend.git
